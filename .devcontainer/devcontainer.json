@@ -1,6 +1,7 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainers/features/java:17": {}
-  }
+    "name": "My Java 17 Project",
+    "image": "mcr.microsoft.com/devcontainers/java:17",
+    "features": {
+        "java.17": {}
+     }
 }
