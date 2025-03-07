@@ -1,7 +1,0 @@
-{
-    "name": "My Java 17 Project",
-    "image": "mcr.microsoft.com/devcontainers/java:17",
-    "features": {
-        "java.17": {}
-     }
-}
